@@ -14,10 +14,11 @@ Once the server is running, open your browser and navigate to `http://localhost:
 
 ## To run JSON-server backend (mock backend for test purposes)
 
+All tasks data is stored in db.json present the root folder. 
+
 ```bash
 npm json server
 ```
 
 json-server will start running on `http://localhost:5500/`
 
-all tasks data is store in db.json
