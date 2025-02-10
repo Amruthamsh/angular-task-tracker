@@ -18,4 +18,4 @@ Once the server is running, open your browser and navigate to `http://localhost:
 npm json server
 ```
 
-json-server will start runnin on `http://localhost:5500/`
+json-server will start running on `http://localhost:5500/`
