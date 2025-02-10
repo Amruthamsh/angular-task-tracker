@@ -19,3 +19,5 @@ npm json server
 ```
 
 json-server will start running on `http://localhost:5500/`
+
+all tasks data is store in db.json
